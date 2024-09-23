@@ -1,6 +1,2 @@
-NEW ADDED FBAN PREMIUM
-auto update Version 
-Nico Expiration date oct 5
-Kiru Expiration date oct 5 pause key
-Raizer Expiration date oct 5
-Christine Expiration date oct 5
+NEW ADDED FBAN UPDATE
+auto update Version (Beta)
